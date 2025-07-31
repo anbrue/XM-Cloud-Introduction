@@ -166,3 +166,5 @@ After completing the init setup above you will be able to run the SUGCON Sites d
 
 - Open a new terminal window and navigate to the `src\Project\Sugcon\<<SUGCON_SITE>>` folder, then run `npm i && npm run start:connected`
   - You can then access the site at `http://localhost:3000`
+ 
+### JUST A TEST COMMIT
